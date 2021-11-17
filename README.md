@@ -1,5 +1,7 @@
 Hi there 👋
 
+--------------------------------------------
+
 - 🔭 I’m currently working on Minecraft
 - 🌱 I’m currently learning Java and Python
 - 👯 I’m looking to collaborate on //
@@ -9,3 +11,5 @@ Hi there 👋
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm rich
 -->
+
+--------------------------------------------
