@@ -9,6 +9,6 @@ Hi there 👋
 - 💬 Ask me about Videogames
 - 📫 How to reach me: Discord: Mattio12123#6606 Telegram: @Mattio12123Dev
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm rich
+- ⚡ Fun fact: I like play Roleplay and Vanilla
 
 --------------------------------------------
